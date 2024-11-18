@@ -1,4 +1,3 @@
-# Transition-metal-xanes
 # A Highly Interpretive "Family Bucket" Model for Simultaneous Predic tion of Multiple Light Transition Metals K-edge XANES 
 
 ## Prerequisites
@@ -17,6 +16,8 @@ matplotlib                3.9.2
 torch_geometric           2.3.0
 torch_scatter             2.1.2+pt23cu118
 ```
+
+**Due to size limitations the trained weights file is missing here, you can get the full version at https://zenodo.org/records/14177270.**
 
 ## Running
 
